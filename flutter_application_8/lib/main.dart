@@ -4,6 +4,7 @@ import 'package:flutter_application_8/Services/Auth/AuthGate.dart';
 import 'package:flutter_application_8/Themes/ThemeProvider.dart';
 
 import 'package:flutter_application_8/Themes/lightmode.dart';
+
 import 'package:flutter_application_8/firebase_options.dart';
 
 // 👇 Import provider package
